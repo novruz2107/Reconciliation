@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0d+Kl2qc/HtF7ZnInoBfBb1uKby7aU6YBpEpMIGwaopPZxtEgxp3bPSsX2LUUGN3zCVomvKFddu7001G6Xxiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliyevnf\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliyevnf\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
